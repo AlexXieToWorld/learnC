@@ -1,3 +1,7 @@
 kkkkkkkbbbk
 ccccc
+<<<<<<< HEAD
 hhhhh
+=======
+dddddd
+>>>>>>> mine
